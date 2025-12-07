@@ -8,6 +8,14 @@
 */
 
 // Add your code right below, good luck!
+const firstName = "Sébastien"
+const lastName = "Jancich"
+const thisYear = 2025;
+const birthYear = 2004
+const fullName = "Sébastien Jancich"
+const age = 21
+
+let greeting = `Hello, ${firstName} ${lastName}, if ${birthYear} is the year you were born you would be ${age} in ${thisYear}, ${fullName}`
 
 
 
